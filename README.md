@@ -14,7 +14,7 @@ Dill
 
 
 ## ⚠️Notes Critikal :
-Setiap Mau Main PUBG nya kalian Harus(Poloknya harus banget) Jalankan script [ GFP ] dill
+Setiap Mau Main PUBG nya kalian Harus(Poloknya harus banget) Jalankan scriptnya dill
 
 ## Recomened ❓️
 - Gaming
