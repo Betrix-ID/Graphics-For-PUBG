@@ -17,8 +17,7 @@ Dill
 Setiap Mau Main PUBG nya kalian Harus(Poloknya harus banget) Jalankan scriptnya dill
 
 ## Recomened ❓️
-- Gaming
-- Multiasking
+- PUBG Mobile 3.7.0
 
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
